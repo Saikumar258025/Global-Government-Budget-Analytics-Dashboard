@@ -4,13 +4,13 @@
 
 The Global Government Budget Analytics Dashboard is an interactive Power BI dashboard designed to analyze government budget allocation across multiple countries from 2021 to 2026.
 
-The dashboard helps users understand how different governments distribute their budgets among major sectors such as:
-🛡 Defense
-🎓 Education
-🏥 Health
-🏗 Infrastructure
-🤝 Social Welfare
-🌾 Agriculture
+The dashboard helps users understand how different governments distribute their budgets among major sectors such as:.
+🛡 Defense.
+🎓 Education.
+🏥 Health.
+🏗 Infrastructure.
+🤝 Social Welfare.
+🌾 Agriculture.
 
 Using interactive filters, maps, KPIs, and visualizations, decision-makers can compare countries, analyze spending trends, and identify budget priorities
 
